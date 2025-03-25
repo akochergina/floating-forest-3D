@@ -146,8 +146,8 @@ Thanks to the modular design, the project is fully extensible for new assets, ga
 
 Here are some screenshots of the floating forest scene:
 
-| Pine & Birch Trees | Mushrooms & Grass |
+| Overview | Closer view |
 |--------------------|--------------------|
 | ![](Project/screenshots/Screenshot1.png) | ![](Project/screenshots/Screenshot2.png) |
 
-> Click to watch a short video: [Floating Forest Demo](https://link-to-video)
+> Click to watch a short video on Youtube: [Floating Forest Demo](https://youtu.be/DRb1E8vefJI)
