@@ -1,2 +1,0 @@
-/Users/alena_khg/X/inf443_lab_code/cgp/library/build/CMakeFiles/edit_cache.dir
-/Users/alena_khg/X/inf443_lab_code/cgp/library/build/CMakeFiles/rebuild_cache.dir

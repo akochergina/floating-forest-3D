@@ -1,0 +1,716 @@
+[
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/01_base/basic_types/basic_types.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/01_base/basic_types/basic_types.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/01_base/basic_types/basic_types.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/01_base/basic_types/basic_types.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/01_base/error/error.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/01_base/error/error.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/01_base/error/error.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/01_base/error/error.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/01_base/string/string.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/01_base/string/string.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/01_base/string/string.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/01_base/string/string.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/02_numarray/numarray/test/test_numarray.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/02_numarray/numarray/test/test_numarray.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/02_numarray/numarray/test/test_numarray.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/02_numarray/numarray/test/test_numarray.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/02_numarray/numarray_stack/special_types/special_types.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/02_numarray/numarray_stack/special_types/special_types.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/02_numarray/numarray_stack/special_types/special_types.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/02_numarray/numarray_stack/special_types/special_types.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/02_numarray/numarray_stack/test/test_numarray_stack.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/02_numarray/numarray_stack/test/test_numarray_stack.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/02_numarray/numarray_stack/test/test_numarray_stack.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/02_numarray/numarray_stack/test/test_numarray_stack.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/03_files/files.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/03_files/files.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/03_files/files.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/03_files/files.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/04_grid_container/grid/test/test_grid.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/04_grid_container/grid/test/test_grid.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/04_grid_container/grid/test/test_grid.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/04_grid_container/grid/test/test_grid.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/04_grid_container/grid_stack/grid_stack_2D/test/test_grid_stack_2D.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/04_grid_container/grid_stack/grid_stack_2D/test/test_grid_stack_2D.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/04_grid_container/grid_stack/grid_stack_2D/test/test_grid_stack_2D.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/04_grid_container/grid_stack/grid_stack_2D/test/test_grid_stack_2D.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/04_grid_container/matrix_stack/special_types/definition/special_types.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/04_grid_container/matrix_stack/special_types/definition/special_types.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/04_grid_container/matrix_stack/special_types/definition/special_types.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/04_grid_container/matrix_stack/special_types/definition/special_types.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/04_grid_container/offset_grid/offset_grid.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/04_grid_container/offset_grid/offset_grid.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/04_grid_container/offset_grid/offset_grid.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/04_grid_container/offset_grid/offset_grid.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/06_mat/functions/mat_functions.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/06_mat/functions/mat_functions.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/06_mat/functions/mat_functions.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/06_mat/functions/mat_functions.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/06_mat/functions/test/test_vec_mat.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/06_mat/functions/test/test_vec_mat.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/06_mat/functions/test/test_vec_mat.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/06_mat/functions/test/test_vec_mat.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/06_mat/mat2/mat2.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/06_mat/mat2/mat2.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/06_mat/mat2/mat2.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/06_mat/mat2/mat2.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/06_mat/mat3/mat3.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/06_mat/mat3/mat3.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/06_mat/mat3/mat3.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/06_mat/mat3/mat3.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/06_mat/mat4/mat4.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/06_mat/mat4/mat4.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/06_mat/mat4/mat4.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/06_mat/mat4/mat4.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/06_mat/test/test_matrix_stack.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/06_mat/test/test_matrix_stack.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/06_mat/test/test_matrix_stack.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/06_mat/test/test_matrix_stack.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/07_image/image.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/07_image/image.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/07_image/image.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/07_image/image.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/08_random_noise/noise/noise.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/08_random_noise/noise/noise.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/08_random_noise/noise/noise.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/08_random_noise/noise/noise.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/08_random_noise/rand/rand.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/08_random_noise/rand/rand.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/08_random_noise/rand/rand.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/08_random_noise/rand/rand.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/affine/affine/affine.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/affine/affine/affine.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/affine/affine/affine.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/affine/affine/affine.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/affine/affine_rt/affine_rt.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/affine/affine_rt/affine_rt.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/affine/affine_rt/affine_rt.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/affine/affine_rt/affine_rt.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/affine/affine_rts/affine_rts.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/affine/affine_rts/affine_rts.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/affine/affine_rts/affine_rts.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/affine/affine_rts/affine_rts.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/frame/frame.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/frame/frame.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/frame/frame.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/frame/frame.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/interpolation/interpolation.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/interpolation/interpolation.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/interpolation/interpolation.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/interpolation/interpolation.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/projection/projection.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/projection/projection.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/projection/projection.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/projection/projection.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/quaternion/quaternion.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/quaternion/quaternion.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/quaternion/quaternion.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/quaternion/quaternion.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/rotation_transform/rotation_transform.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/rotation_transform/rotation_transform.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/rotation_transform/rotation_transform.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/rotation_transform/rotation_transform.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/rotation_transform/test/test_rotation.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/rotation_transform/test/test_rotation.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/rotation_transform/test/test_rotation.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/09_geometric_transformation/rotation_transform/test/test_rotation.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/10_camera_model/camera_model/camera_first_person/camera_first_person.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/10_camera_model/camera_model/camera_first_person/camera_first_person.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/10_camera_model/camera_model/camera_first_person/camera_first_person.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/10_camera_model/camera_model/camera_first_person/camera_first_person.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/10_camera_model/camera_model/camera_first_person_euler/camera_first_person_euler.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/10_camera_model/camera_model/camera_first_person_euler/camera_first_person_euler.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/10_camera_model/camera_model/camera_first_person_euler/camera_first_person_euler.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/10_camera_model/camera_model/camera_first_person_euler/camera_first_person_euler.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/10_camera_model/camera_model/camera_generic_base/camera_generic_base.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/10_camera_model/camera_model/camera_generic_base/camera_generic_base.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/10_camera_model/camera_model/camera_generic_base/camera_generic_base.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/10_camera_model/camera_model/camera_generic_base/camera_generic_base.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/10_camera_model/camera_model/camera_orbit/camera_orbit.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/10_camera_model/camera_model/camera_orbit/camera_orbit.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/10_camera_model/camera_model/camera_orbit/camera_orbit.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/10_camera_model/camera_model/camera_orbit/camera_orbit.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/10_camera_model/camera_model/camera_orbit_euler/camera_orbit_euler.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/10_camera_model/camera_model/camera_orbit_euler/camera_orbit_euler.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/10_camera_model/camera_model/camera_orbit_euler/camera_orbit_euler.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/10_camera_model/camera_model/camera_orbit_euler/camera_orbit_euler.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/10_camera_model/camera_model/common_functions/common_functions.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/10_camera_model/camera_model/common_functions/common_functions.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/10_camera_model/camera_model/common_functions/common_functions.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/10_camera_model/camera_model/common_functions/common_functions.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/10_camera_model/camera_projection/camera_projection.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/10_camera_model/camera_projection/camera_projection.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/10_camera_model/camera_projection/camera_projection.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/10_camera_model/camera_projection/camera_projection.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/11_mesh/mesh/mesh.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/11_mesh/mesh/mesh.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/11_mesh/mesh/mesh.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/11_mesh/mesh/mesh.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/11_mesh/primitive/primitive.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/11_mesh/primitive/primitive.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/11_mesh/primitive/primitive.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/11_mesh/primitive/primitive.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/12_shape/bounding_box/bounding_box.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/12_shape/bounding_box/bounding_box.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/12_shape/bounding_box/bounding_box.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/12_shape/bounding_box/bounding_box.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/12_shape/curve/curve.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/12_shape/curve/curve.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/12_shape/curve/curve.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/12_shape/curve/curve.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/12_shape/implicit/marching_cube/helper/marching_cubes_lut.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/12_shape/implicit/marching_cube/helper/marching_cubes_lut.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/12_shape/implicit/marching_cube/helper/marching_cubes_lut.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/12_shape/implicit/marching_cube/helper/marching_cubes_lut.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/12_shape/implicit/marching_cube/marching_cube.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/12_shape/implicit/marching_cube/marching_cube.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/12_shape/implicit/marching_cube/marching_cube.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/12_shape/implicit/marching_cube/marching_cube.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/12_shape/intersection/intersection.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/12_shape/intersection/intersection.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/12_shape/intersection/intersection.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/12_shape/intersection/intersection.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/12_shape/spatial_domain/spatial_domain_grid_3D/spatial_domain_grid_3D.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/12_shape/spatial_domain/spatial_domain_grid_3D/spatial_domain_grid_3D.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/12_shape/spatial_domain/spatial_domain_grid_3D/spatial_domain_grid_3D.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/12_shape/spatial_domain/spatial_domain_grid_3D/spatial_domain_grid_3D.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/buffer/ebo/ebo.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/buffer/ebo/ebo.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/buffer/ebo/ebo.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/buffer/ebo/ebo.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/buffer/opengl_buffer/opengl_buffer.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/buffer/opengl_buffer/opengl_buffer.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/buffer/opengl_buffer/opengl_buffer.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/buffer/opengl_buffer/opengl_buffer.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/buffer/vbo/vbo.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/buffer/vbo/vbo.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/buffer/vbo/vbo.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/buffer/vbo/vbo.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/debug/debug.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/debug/debug.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/debug/debug.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/debug/debug.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/emscripten/emscripten.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/emscripten/emscripten.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/emscripten/emscripten.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/emscripten/emscripten.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/fbo/fbo.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/fbo/fbo.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/fbo/fbo.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/fbo/fbo.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/shaders/cache_uniform_location/cache_uniform_location.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/shaders/cache_uniform_location/cache_uniform_location.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/shaders/cache_uniform_location/cache_uniform_location.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/shaders/cache_uniform_location/cache_uniform_location.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/shaders/shaders.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/shaders/shaders.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/shaders/shaders.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/shaders/shaders.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/texture/texture.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/texture/texture.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/texture/texture.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/texture/texture.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/uniform/uniform.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/uniform/uniform.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/uniform/uniform.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/13_opengl/uniform/uniform.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/14_window/imgui/imgui.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/14_window/imgui/imgui.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/14_window/imgui/imgui.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/14_window/imgui/imgui.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/14_window/window/window.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/14_window/window/window.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/14_window/window/window.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/14_window/window/window.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/15_input_devices/input_devices.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/15_input_devices/input_devices.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/15_input_devices/input_devices.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/15_input_devices/input_devices.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/curve_drawable/curve_drawable.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/curve_drawable/curve_drawable.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/curve_drawable/curve_drawable.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/curve_drawable/curve_drawable.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/curve_drawable_dynamic_extend/curve_drawable_dynamic_extend.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/curve_drawable_dynamic_extend/curve_drawable_dynamic_extend.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/curve_drawable_dynamic_extend/curve_drawable_dynamic_extend.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/curve_drawable_dynamic_extend/curve_drawable_dynamic_extend.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/environment/environment.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/environment/environment.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/environment/environment.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/environment/environment.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/hierarchy_mesh_drawable/hierarchy_mesh_drawable.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/hierarchy_mesh_drawable/hierarchy_mesh_drawable.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/hierarchy_mesh_drawable/hierarchy_mesh_drawable.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/hierarchy_mesh_drawable/hierarchy_mesh_drawable.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/material/material_mesh_drawable_phong/material_mesh_drawable_phong.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/material/material_mesh_drawable_phong/material_mesh_drawable_phong.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/material/material_mesh_drawable_phong/material_mesh_drawable_phong.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/material/material_mesh_drawable_phong/material_mesh_drawable_phong.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/mesh_drawable/mesh_drawable.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/mesh_drawable/mesh_drawable.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/mesh_drawable/mesh_drawable.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/mesh_drawable/mesh_drawable.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/special_drawable/skybox_drawable/skybox_drawable.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/special_drawable/skybox_drawable/skybox_drawable.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/special_drawable/skybox_drawable/skybox_drawable.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/special_drawable/skybox_drawable/skybox_drawable.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/special_drawable/trajectory_drawable/trajectory_drawable.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/special_drawable/trajectory_drawable/trajectory_drawable.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/special_drawable/trajectory_drawable/trajectory_drawable.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/special_drawable/trajectory_drawable/trajectory_drawable.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/triangles_drawable/triangles_drawable.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/triangles_drawable/triangles_drawable.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/triangles_drawable/triangles_drawable.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/16_drawable/triangles_drawable/triangles_drawable.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/17_timer/timer_basic/timer_basic.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/17_timer/timer_basic/timer_basic.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/17_timer/timer_basic/timer_basic.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/17_timer/timer_basic/timer_basic.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/17_timer/timer_event_periodic/timer_event_periodic.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/17_timer/timer_event_periodic/timer_event_periodic.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/17_timer/timer_event_periodic/timer_event_periodic.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/17_timer/timer_event_periodic/timer_event_periodic.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/17_timer/timer_fps/timer_fps.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/17_timer/timer_fps/timer_fps.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/17_timer/timer_fps/timer_fps.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/17_timer/timer_fps/timer_fps.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/17_timer/timer_interval/timer_interval.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/17_timer/timer_interval/timer_interval.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/17_timer/timer_interval/timer_interval.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/17_timer/timer_interval/timer_interval.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/18_user_interactions/picking/picking_plane/picking_plane.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/18_user_interactions/picking/picking_plane/picking_plane.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/18_user_interactions/picking/picking_plane/picking_plane.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/18_user_interactions/picking/picking_plane/picking_plane.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/18_user_interactions/picking/picking_spheres/picking_spheres.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/18_user_interactions/picking/picking_spheres/picking_spheres.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/18_user_interactions/picking/picking_spheres/picking_spheres.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/18_user_interactions/picking/picking_spheres/picking_spheres.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/18_user_interactions/picking/picking_structure/picking_structure.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/18_user_interactions/picking/picking_structure/picking_structure.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/18_user_interactions/picking/picking_structure/picking_structure.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/18_user_interactions/picking/picking_structure/picking_structure.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/18_user_interactions/tracker/velocity_tracker/velocity_tracker.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/18_user_interactions/tracker/velocity_tracker/velocity_tracker.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/18_user_interactions/tracker/velocity_tracker/velocity_tracker.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/18_user_interactions/tracker/velocity_tracker/velocity_tracker.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/19_camera_controller/camera_controller_2d_displacement/camera_controller_2d_displacement.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/19_camera_controller/camera_controller_2d_displacement/camera_controller_2d_displacement.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/19_camera_controller/camera_controller_2d_displacement/camera_controller_2d_displacement.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/19_camera_controller/camera_controller_2d_displacement/camera_controller_2d_displacement.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/19_camera_controller/camera_controller_first_person/camera_controller_first_person.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/19_camera_controller/camera_controller_first_person/camera_controller_first_person.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/19_camera_controller/camera_controller_first_person/camera_controller_first_person.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/19_camera_controller/camera_controller_first_person/camera_controller_first_person.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/19_camera_controller/camera_controller_first_person_euler/camera_controller_first_person_euler.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/19_camera_controller/camera_controller_first_person_euler/camera_controller_first_person_euler.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/19_camera_controller/camera_controller_first_person_euler/camera_controller_first_person_euler.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/19_camera_controller/camera_controller_first_person_euler/camera_controller_first_person_euler.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/19_camera_controller/camera_controller_fly_mode/camera_controller_fly_mode.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/19_camera_controller/camera_controller_fly_mode/camera_controller_fly_mode.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/19_camera_controller/camera_controller_fly_mode/camera_controller_fly_mode.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/19_camera_controller/camera_controller_fly_mode/camera_controller_fly_mode.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/19_camera_controller/camera_controller_generic_base/camera_controller_generic_base.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/19_camera_controller/camera_controller_generic_base/camera_controller_generic_base.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/19_camera_controller/camera_controller_generic_base/camera_controller_generic_base.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/19_camera_controller/camera_controller_generic_base/camera_controller_generic_base.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/19_camera_controller/camera_controller_orbit/camera_controller_orbit.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/19_camera_controller/camera_controller_orbit/camera_controller_orbit.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/19_camera_controller/camera_controller_orbit/camera_controller_orbit.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/19_camera_controller/camera_controller_orbit/camera_controller_orbit.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/19_camera_controller/camera_controller_orbit_euler/camera_controller_orbit_euler.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/19_camera_controller/camera_controller_orbit_euler/camera_controller_orbit_euler.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/19_camera_controller/camera_controller_orbit_euler/camera_controller_orbit_euler.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/19_camera_controller/camera_controller_orbit_euler/camera_controller_orbit_euler.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/19_camera_controller/test/test_camera_controller.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/19_camera_controller/test/test_camera_controller.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/19_camera_controller/test/test_camera_controller.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/19_camera_controller/test/test_camera_controller.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/20_format_parser/mesh_loader/obj/obj.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/20_format_parser/mesh_loader/obj/obj.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/20_format_parser/mesh_loader/obj/obj.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/20_format_parser/mesh_loader/obj/obj.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/20_format_parser/mesh_loader/obj_advanced/obj_advanced.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/20_format_parser/mesh_loader/obj_advanced/obj_advanced.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/20_format_parser/mesh_loader/obj_advanced/obj_advanced.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/20_format_parser/mesh_loader/obj_advanced/obj_advanced.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/21_scene_project_helper/path/path.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/21_scene_project_helper/path/path.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/21_scene_project_helper/path/path.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/cgp/21_scene_project_helper/path/path.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/glad/opengl33/glad.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/glad/opengl33/glad.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/glad/opengl33/glad.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/glad/opengl33/glad.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/glad/opengl41/glad.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/glad/opengl41/glad.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/glad/opengl41/glad.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/glad/opengl41/glad.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/glad/opengl43/glad.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/glad/opengl43/glad.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/glad/opengl43/glad.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/glad/opengl43/glad.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/glad/opengl46/glad.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/glad/opengl46/glad.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/glad/opengl46/glad.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/glad/opengl46/glad.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/imgui/imgui.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/imgui/imgui.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/imgui/imgui.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/imgui/imgui.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/imgui/imgui_demo.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/imgui/imgui_demo.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/imgui/imgui_demo.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/imgui/imgui_demo.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/imgui/imgui_draw.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/imgui/imgui_draw.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/imgui/imgui_draw.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/imgui/imgui_draw.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/imgui/imgui_impl_glfw.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/imgui/imgui_impl_glfw.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/imgui/imgui_impl_glfw.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/imgui/imgui_impl_glfw.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/imgui/imgui_impl_opengl3.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/imgui/imgui_impl_opengl3.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/imgui/imgui_impl_opengl3.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/imgui/imgui_impl_opengl3.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/imgui/imgui_widgets.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/imgui/imgui_widgets.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/imgui/imgui_widgets.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/imgui/imgui_widgets.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/jpeg/jpgd.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/jpeg/jpgd.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/jpeg/jpgd.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/jpeg/jpgd.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/jpeg/jpge.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/jpeg/jpge.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/jpeg/jpge.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/jpeg/jpge.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/lodepng/lodepng.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/lodepng/lodepng.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/lodepng/lodepng.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/lodepng/lodepng.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/simplexnoise/simplexnoise1234.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/simplexnoise/simplexnoise1234.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/simplexnoise/simplexnoise1234.cpp",
+  "output": "CMakeFiles/Project.dir/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library/third_party/src/simplexnoise/simplexnoise1234.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/src/amanite_mushroom.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/amanite_mushroom.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/amanite_mushroom.cpp",
+  "output": "CMakeFiles/Project.dir/src/amanite_mushroom.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/src/birch_tree.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/birch_tree.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/birch_tree.cpp",
+  "output": "CMakeFiles/Project.dir/src/birch_tree.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/src/earth_block.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/earth_block.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/earth_block.cpp",
+  "output": "CMakeFiles/Project.dir/src/earth_block.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/src/environment.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/environment.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/environment.cpp",
+  "output": "CMakeFiles/Project.dir/src/environment.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/src/grass.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/grass.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/grass.cpp",
+  "output": "CMakeFiles/Project.dir/src/grass.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/src/gui_parameters.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/gui_parameters.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/gui_parameters.cpp",
+  "output": "CMakeFiles/Project.dir/src/gui_parameters.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/src/main.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/main.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/main.cpp",
+  "output": "CMakeFiles/Project.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/src/mesh_object.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/mesh_object.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/mesh_object.cpp",
+  "output": "CMakeFiles/Project.dir/src/mesh_object.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/src/mesh_primitive.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/mesh_primitive.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/mesh_primitive.cpp",
+  "output": "CMakeFiles/Project.dir/src/mesh_primitive.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/src/mosquito.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/mosquito.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/mosquito.cpp",
+  "output": "CMakeFiles/Project.dir/src/mosquito.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/src/mushroom.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/mushroom.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/mushroom.cpp",
+  "output": "CMakeFiles/Project.dir/src/mushroom.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/src/pine_tree.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/pine_tree.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/pine_tree.cpp",
+  "output": "CMakeFiles/Project.dir/src/pine_tree.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/src/porcini_mushroom.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/porcini_mushroom.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/porcini_mushroom.cpp",
+  "output": "CMakeFiles/Project.dir/src/porcini_mushroom.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/src/scene.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/scene.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/scene.cpp",
+  "output": "CMakeFiles/Project.dir/src/scene.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/src/scene_events.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/scene_events.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/scene_events.cpp",
+  "output": "CMakeFiles/Project.dir/src/scene_events.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/src/skull.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/skull.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/skull.cpp",
+  "output": "CMakeFiles/Project.dir/src/skull.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/src/sky.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/sky.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/sky.cpp",
+  "output": "CMakeFiles/Project.dir/src/sky.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/src/snake.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/snake.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/snake.cpp",
+  "output": "CMakeFiles/Project.dir/src/snake.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/src/terrain.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/terrain.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/terrain.cpp",
+  "output": "CMakeFiles/Project.dir/src/terrain.cpp.o"
+},
+{
+  "directory": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build",
+  "command": "g++ -DCGP_OPENGL_3_3 -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DSOLUTION -I/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src -I/Users/alena_khg/Documents/X2022/floating-forest-3D/cgp/library -I/opt/homebrew/Cellar/glfw/3.4/include -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1   -g -O2 -std=c++14 -Wall -Wextra -Wfatal-errors -Wno-pragmas -Wno-unknown-warning-option -Wno-sign-compare -Wno-type-limits -o CMakeFiles/Project.dir/src/tree.cpp.o -c /Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/tree.cpp",
+  "file": "/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/src/tree.cpp",
+  "output": "CMakeFiles/Project.dir/src/tree.cpp.o"
+}
+]

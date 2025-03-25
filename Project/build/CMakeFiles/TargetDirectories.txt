@@ -1,0 +1,3 @@
+/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build/CMakeFiles/Project.dir
+/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build/CMakeFiles/edit_cache.dir
+/Users/alena_khg/Documents/X2022/floating-forest-3D/Project/build/CMakeFiles/rebuild_cache.dir
